@@ -111,7 +111,7 @@ Example segmentation output :
 Input Image	Segmentation Map	Overlay
 RGB Terrain	Pixel Labels	Combined Visualization
 ## Training performance graphs:
-![Segmentation Example](results/train_graphs.png)
+![Segmentation Example](results/training_graphs.png)
 ## Loss vs Epoch
 ## IoU vs Epoch
 
