@@ -37,7 +37,7 @@ It contains synthetic desert environments with annotated segmentation masks.
 
 ---
 
-## Project Structure
+```## Project Structure
 offroad-segformer/
 │
 ├── dataset/
@@ -58,6 +58,7 @@ offroad-segformer/
 ├── training_graphs.png
 ├── README.md
 └── requirements.txt
+```
 
 
 ---
