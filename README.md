@@ -103,18 +103,19 @@ Pixel Accuracy
 Final Model Performance:
 Mean IoU ≈ 0.65
 
-Results
+## Results
 
-Example segmentation output:
+Example segmentation output : 
+![Segmentation Example](results/segmentation_example.png)
+
 Input Image	Segmentation Map	Overlay
 RGB Terrain	Pixel Labels	Combined Visualization
 Training performance graphs:
+
 Loss vs Epoch
 IoU vs Epoch
 
-Example Output
-
-The system produces:
+## The system produces : 
 
 Segmentation overlays
 
@@ -149,5 +150,3 @@ Multi-sensor perception systems
 Authors
 
 Team Name: AlgoForge
-
-Hackathon: Duality AI Offroad Autonomy Segmentation Challenge
