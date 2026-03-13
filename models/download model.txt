@@ -1,0 +1,7 @@
+## Pretrained Model
+
+Download the trained SegFormer model here:
+
+https://drive.google.com/file/d/xxxxx/view
+
+Place the file inside the `models/` folder before running inference.
