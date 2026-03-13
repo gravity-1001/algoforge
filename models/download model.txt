@@ -2,6 +2,6 @@
 
 Download the trained SegFormer model here:
 
-https://drive.google.com/file/d/xxxxx/view
+https://drive.google.com/file/d/1MLZ4mh9aOYEsPl4ze7ee6kAIgI4N-75a/view?usp=sharing
 
 Place the file inside the `models/` folder before running inference.
