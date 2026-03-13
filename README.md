@@ -89,8 +89,8 @@ The model was trained using **PyTorch**.
 | Architecture | SegFormer |
 | Optimizer | AdamW |
 | Loss Function | Cross Entropy |
-| Input Resolution | 512×512 |
-| Epochs | 50+ |
+| Input Resolution | 450x450 |
+| Epochs | 25+ |
 | Device | GPU |
 
 ### Training Command
